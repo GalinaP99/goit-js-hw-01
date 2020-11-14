@@ -35,7 +35,10 @@ if (price > 0) { // Write code on this line
   message = `Доставка в ${country} будет стоить ${price} кредитов`;
 }
 
- console.log(message);
+console.log(message);
+console.log(true && 5 > 3 && "javascript");
+ 
+//true && 5 > 3 && "javascript"
 
 //если countryName равно "КитаЙ"
 // то значение message будет равно
